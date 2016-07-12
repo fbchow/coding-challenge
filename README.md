@@ -1,3 +1,11 @@
+# Introduction
+This is an unfinished attempt at the Data Engineering Code Challenge. I used the Python software package Networkx (<https://networkx.github.io/>) for storing the Venmo transaction network graph. 
+
+In between my summer research position, I enjoyed hacking at the well-written code challenge and finally having a change to build a network graph. It was refreshing to write in Python because my day-job involves web development, where design goals supercede data infrastructure goals. Developing this Code Challenge after work made me realize that I really miss the type of problem solving in data engineering.  
+
+
+
+
 # Table of Contents
 
 1. [Challenge Summary] (README.md#challenge-summary)
