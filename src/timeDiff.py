@@ -37,7 +37,6 @@ diff = tt1 - tt2
 
 if (diff > datetime.timedelta(minutes=1)):
     print ("transaction outside the 60 sec window")
-
 else:
     print ("transaction within the 60 sec window")
 

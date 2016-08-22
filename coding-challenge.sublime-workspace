@@ -1,0 +1,670 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"vars"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"nod",
+				"node"
+			],
+			[
+				"medi",
+				"median"
+			],
+			[
+				"median",
+				"median_degree"
+			],
+			[
+				"media",
+				"median_degree"
+			],
+			[
+				"degre",
+				"degree_sequence"
+			],
+			[
+				"deg",
+				"degree_distribution"
+			],
+			[
+				"avg",
+				"avg_neigh_degree"
+			],
+			[
+				"read",
+				"read_json_file"
+			],
+			[
+				"ti",
+				"created_time"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"data",
+				"dataArray"
+			],
+			[
+				"auth",
+				"author"
+			],
+			[
+				"feed",
+				"feedparser"
+			],
+			[
+				"up",
+				"up_date"
+			],
+			[
+				"ent",
+				"entry"
+			],
+			[
+				"pu",
+				"published_date"
+			],
+			[
+				"table",
+				"table_cols"
+			],
+			[
+				"db",
+				"dbListTables"
+			],
+			[
+				"di",
+				"dist_matrix"
+			],
+			[
+				"ha",
+				"haRegex"
+			],
+			[
+				"com",
+				"compile"
+			],
+			[
+				"rena",
+				"renameLong"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"all",
+				"allDevs"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"sub",
+				"substring"
+			],
+			[
+				"mea",
+				"measurement"
+			],
+			[
+				"br",
+				"breed_names"
+			],
+			[
+				"max",
+				"max_generator"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"da",
+				"davis"
+			],
+			[
+				"oe",
+				"onedollar"
+			],
+			[
+				"od",
+				"odometer"
+			],
+			[
+				"odo",
+				"odo_by_cond"
+			],
+			[
+				"one",
+				"onedollar"
+			],
+			[
+				"wh",
+				"which"
+			],
+			[
+				"pri",
+				"price_by_transmission"
+			],
+			[
+				"plot",
+				"plot_stuff"
+			],
+			[
+				"order",
+				"ordering"
+			],
+			[
+				"prop",
+				"prop_tbl"
+			],
+			[
+				"fuel",
+				"fuel_type"
+			],
+			[
+				"make",
+				"make_fuel_type_table"
+			],
+			[
+				"split",
+				"splitted"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/script.py",
+			"settings":
+			{
+				"buffer_size": 2209,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/binarySearch.py",
+			"settings":
+			{
+				"buffer_size": 1750,
+				"line_ending": "Unix",
+				"name": "import networkx as nx"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"packages",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"rep",
+				"SublimeREPL: R"
+			],
+			[
+				"",
+				"SublimeREPL: R"
+			],
+			[
+				"Re",
+				"SublimeREPL: R"
+			],
+			[
+				"R",
+				"SublimeREPL: R"
+			],
+			[
+				"repl: r",
+				"SublimeREPL: R"
+			],
+			[
+				"repl r",
+				"SublimeREPL: R"
+			],
+			[
+				"Repl R",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 167.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fanny/GitHub/coding-challenge/src/script.py",
+		"/Users/fanny/GitHub/coding-challenge/venmo_input/venmo-trans.txt",
+		"/Users/fanny/GitHub/budgetTool/bootstrap-3.3.6/docs/dashboard/values.xml",
+		"/Users/fanny/GitHub/budgetTool/bootstrap-3.3.6/docs/dashboard/pumsmeta.xml",
+		"/Users/fanny/GitHub/budgetTool/bootstrap-3.3.6/docs/dashboard/Example.xml",
+		"/Users/fanny/GitHub/budgetTool/bootstrap-3.3.6/docs/dashboard/index.html",
+		"/Users/fanny/GitHub/coding-challenge/src/rolling_median.py",
+		"/Users/fanny/GitHub/coding-challenge/src/tribulations.py",
+		"/Users/fanny/GitHub/coding-challenge/src/timeDiff.py",
+		"/Users/fanny/GitHub/coding-challenge/src/trial.py",
+		"/Users/fanny/GitHub/coding-challenge/src/graph.py",
+		"/Users/fanny/GitHub/coding-challenge/stna-examples/3-basic_analysis.py",
+		"/Users/fanny/GitHub/coding-challenge/README.md",
+		"/Users/fanny/GitHub/coding-challenge/venmo_input/venmo-trans2.txt",
+		"/Users/fanny/GitHub/coding-challenge/venmo_input/venmo-trans2.txt'",
+		"/Users/fanny/GitHub/coding-challenge/data-gen/venmo-trans.txt",
+		"/Users/fanny/GitHub/coding-challenge/run.sh",
+		"/Users/fanny/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/fanny/GitHub/coding-challenge/insight_testsuite/tests/test-1-venmo-trans/venmo_input/venmo-trans.txt",
+		"/Users/fanny/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/fanny/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/fanny/GitHub/coding-challenge/insight_testsuite/run_tests.sh",
+		"/Users/fanny/GitHub/coding-challenge/src/median_degree.java",
+		"/Users/fanny/GitHub/coding-challenge/insight_testsuite/tests/test-1-venmo-trans/venmo_output/output.txt",
+		"/Users/fanny/GitHub/coding-challenge/venmo_output/output.txt",
+		"/Users/fanny/GitHub/budgetTool/bootstrap-3.3.6/docs/dashboard/d3xmllearning.js",
+		"/Users/fanny/GitHub/budgetTool/bootstrap-3.3.6/docs/dashboard/d3tutorial1.html",
+		"/Users/fanny/Downloads/1873934-235f726f83e4cbf5eb2c8348aba145fe37dd7d13/Example.xml",
+		"/Users/fanny/GitHub/budgetTool/bootstrap-3.3.6/docs/dashboard/testdata.xml",
+		"/Users/fanny/arxcite/arxcite/scrape/affiliations.py",
+		"/Users/fanny/arxcite/arxcite/scrape/affiliation.py",
+		"/Users/fanny/arxcite/arxcite/scrape/scrape.py",
+		"/Users/fanny/arxcite/arxcite/scrape/scrape_test.py",
+		"/Users/fanny/Desktop/graphs/index.html",
+		"/Users/fanny/Dropbox/sta135/sta135_data/README.TXT",
+		"/Users/fanny/Desktop/mat22al_class1_notes",
+		"/Users/fanny/Desktop/Fanny's Stuff/2015-python-master/day6/yob2013 copy 2.txt",
+		"/Users/fanny/arxcite/code/api_parse_example.py",
+		"/Users/fanny/Dropbox/summer2016/intern_fastforwardlabs",
+		"/Users/fanny/Dropbox/rtg/linux_commands",
+		"/Users/fanny/Dropbox/grad/grad_statistik_rant",
+		"/Users/fanny/Dropbox/pol114/project/project_code",
+		"/Users/fanny/Desktop/LAB6.text",
+		"/Users/fanny/arxcite/code/scratch.py",
+		"/Users/fanny/arxcite/code/api.py",
+		"/Users/fanny/arxcite/code/api_python2.py",
+		"/Users/fanny/Library/Mobile Documents/com~apple~CloudDocs/summer intern 2015/intern_coverletter_humin",
+		"/Users/fanny/Library/Mobile Documents/com~apple~CloudDocs/summer intern 2015/intern_coverletter_llnl_globalsecurity.txt",
+		"/Users/fanny/Library/Mobile Documents/com~apple~CloudDocs/summer intern 2015/intern_coverletter_llnl_computation.txt",
+		"/Users/fanny/Library/Mobile Documents/com~apple~CloudDocs/ECS30Shared/mine_sweeper/readArgs.c",
+		"/Users/fanny/Dropbox/rtg/abstract",
+		"/Users/fanny/Dropbox/sta137/hw2/2016 01 13 Lake Huron.R",
+		"/Users/fanny/Desktop/Fanny's Stuff/web_scraping/webscraping1.R",
+		"/Users/fanny/djangogirls/blog/admin.py",
+		"/Users/fanny/djangogirls/blog/models.py",
+		"/Users/fanny/djangogirls/mysite/settings.py",
+		"/Users/fanny/Desktop/settings.py",
+		"/Users/fanny/djangogirls/.gitignore",
+		"/Users/fanny/Dropbox/sta141/oh/oh7.r",
+		"/Users/fanny/Dropbox/sta138/projectFinal/projectFinal_draft_3.R",
+		"/Users/fanny/Downloads/Scraping_Notes.R",
+		"/Users/fanny/Dropbox/sta141/hw5/hw5_scraps.r",
+		"/Users/fanny/Dropbox/sta141/hw5/hw5_dump",
+		"/Users/fanny/Dropbox/sta141/oh/oh8.r",
+		"/Users/fanny/Downloads/Discussion8.R",
+		"/Users/fanny/Dropbox/sta138/project2/project2_2_notes",
+		"/Users/fanny/Dropbox/sta141/hw4/hw4_1.R",
+		"/Users/fanny/Dropbox/sta141/disc/dis6.r",
+		"/Users/fanny/Dropbox/sta141/hw4/data.sql",
+		"/Users/fanny/Downloads/solutionRegex1.py",
+		"/Users/fanny/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/fanny/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/fanny/Dropbox/ECS30Shared/HW5/my_tail/tail.c",
+		"/Users/fanny/Dropbox/sta138/hw4/hw4.R",
+		"/Users/fanny/Dropbox/sta141/hw3/skeleteon.R",
+		"/Users/fanny/Dropbox/sta141/oh/oh5.R",
+		"/Users/fanny/Dropbox/sta138/project1/project1_1a.R",
+		"/Users/fanny/Dropbox/sta138/project1/project1_1b.R",
+		"/Displaying temperature over time",
+		"/Users/fanny/Dropbox/hw3_appendix",
+		"/Users/fanny/Desktop/Fanny's Stuff/spring2015_syllabi/STA32/hw4/hw4_3.r",
+		"/Users/fanny/Dropbox/sta141/oh/oh1.R",
+		"/Users/fanny/Dropbox/sta141/oh/oh2.r",
+		"/Users/fanny/Dropbox/sta141/oh/oh4.R",
+		"/Users/fanny/Dropbox/sta141/disc4.r",
+		"/Users/fanny/Dropbox/sta141/hw2/NASA/hw2_test.r",
+		"/Users/fanny/Downloads/Discussion1-1.R",
+		"/Users/fanny/Dropbox/sta141/regex.py",
+		"/Users/fanny/Dropbox/sta141/disc/disc2.r",
+		"/Users/fanny/Dropbox/sta141/lecture/lec4.r",
+		"/Users/fanny/Dropbox/sta141/hw2/NASA/cloudhigh2.txt",
+		"/Users/fanny/Dropbox/sta141/hw2/NASA/cloudhigh1.txt",
+		"/Users/fanny/Dropbox/sta141/hw2/hw2",
+		"/Users/fanny/Library/Application Support/Sublime Text 2/Packages/User/R Console.sublime-settings",
+		"/Users/fanny/Dropbox/sta141/oh3b.r",
+		"/Users/fanny/Dropbox/sta141/hw1/hw1_test.Rmd",
+		"/Users/fanny/Dropbox/sta141/hw1/hw1b.r",
+		"/Users/fanny/Dropbox/sta141/hw1/hw1b_dump.r",
+		"/Users/fanny/Dropbox/sta141/hw1/disc3.r",
+		"/Users/fanny/Dropbox/sta141/software.txt",
+		"/Users/fanny/Library/Application Support/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/fanny/Dropbox/sta141/hw1/hw1_appendix.txt",
+		"/Users/fanny/Dropbox/sta141/hw1/hw_appendix.r",
+		"/Users/fanny/Dropbox/sta141/test1.r",
+		"/Users/fanny/Dropbox/sta141/hw1/hw1_chow,fanny/hw1_appendix.r",
+		"/Users/fanny/Dropbox/sta141/oh1.R",
+		"/Users/fanny/Dropbox/sta141/disc2.r",
+		"/Users/fanny/Dropbox/sta141/lec1.R",
+		"/Users/fanny/Dropbox/sta141/lec3.r",
+		"/Users/fanny/Dropbox/sta141/oh2.r",
+		"/Users/fanny/Dropbox/sta141/oh3.r",
+		"/Users/fanny/Dropbox/sta141/lec2.r",
+		"/Users/fanny/Dropbox/sta141/questions",
+		"/Users/fanny/Dropbox/sta141/disc1.R"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/fanny/Dropbox/",
+			"/Users/fanny/Dropbox/sta138/hw3",
+			"/Users/fanny/Dropbox/sta141/",
+			"/Users/fanny/Dropbox/sta141",
+			"hw1b.r,/Users/fanny/Dropbox/sta141",
+			"hw1b.r",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"checklist",
+			"log",
+			"form",
+			"submit",
+			"submit'",
+			"submit",
+			"-->\n",
+			"))\n",
+			"matplot",
+			"G",
+			"print",
+			"jsonline",
+			"numpy",
+			"\"caroline-kaiser\"",
+			"Jordan_Gruber",
+			"talktoR",
+			"submit",
+			"function submit",
+			"}\n",
+			"metadataurl",
+			"d3.xml",
+			"d3",
+			"metadataurl",
+			"vintage_start",
+			".js",
+			"author_string",
+			"d",
+			"R25C",
+			"R125C",
+			"pre",
+			"code",
+			"user",
+			" \n",
+			"or",
+			"trim",
+			"join",
+			".  ",
+			"head",
+			"]\n",
+			"price",
+			"\"",
+			"groups",
+			"```",
+			"The",
+			"substr",
+			"coerce",
+			"paste",
+			"grep",
+			"grepl",
+			"paste0",
+			"rid",
+			"garbage",
+			"cex",
+			"odo_by_cond == \"damaged\"] = 1\nordering2[odo_by_cond == \"fair\"] = 2\nordering2[odo_by_cond == \"good\"] = 3\nordering2[odo_by_cond == \"new\"] = 4\nordering2[odo_by_cond == \"excellent\"] = 5\nordering2[odo_by_cond",
+			"sane_age",
+			"age",
+			"odo_by_cond",
+			"x",
+			"odo_by_cond",
+			"x",
+			"odo_by_cond",
+			"condition",
+			"conditio",
+			"condition == ",
+			"tbls",
+			"mosaic",
+			"mossaic",
+			"mosaic",
+			"old",
+			"3.",
+			"quantile",
+			"!is.na",
+			"is.na",
+			"2015 - vposts",
+			"\"age\"",
+			"age",
+			"\")\n",
+			"x",
+			"{r}",
+			" {r}",
+			"```",
+			"```{r}",
+			"())",
+			"subset",
+			"abline",
+			"plot",
+			"densit",
+			"vposts"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"R125C",
+			"R12RC",
+			"odo_by_cond",
+			"onedollar",
+			"  ",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/script.py",
+					"settings":
+					{
+						"buffer_size": 2209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/binarySearch.py",
+					"settings":
+					{
+						"buffer_size": 1750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1598,
+								1598
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import networkx as nx",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1052.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 136.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true
+}

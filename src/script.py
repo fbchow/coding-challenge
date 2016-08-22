@@ -35,19 +35,32 @@ with open(fpath, encoding='utf-8') as file:
 # creates an empty dict because there's nothin to obtain associated with 'Ying-Mo's key
 zz = g.node['Ying-Mo']
 yy = g.edge['Ying-Mo']['Maryann-Berry']
-print(type(yy))
-print(type(zz))
-print("who is ying-mo connected to: %s" % yy)
-print("who is ying-mo connected to: %s" % zz)
+# print(type(yy))
+# print(type(zz))
+# print("who is ying-mo connected to: %s" % yy)
+# print("who is ying-mo connected to: %s" % zz)
 
 # print a list of all edges read-in	
 # iterate through the edges
-for n1, n2, attr in g.edges(data=True):
-	# if (attr == 0):
-	# 	print ("yeah")
-	# else:
-	# 	print (attr)
-		# print (attr - 1)
+# i = 0
+# for n1, n2, attr in g.edges(data=True):÷
+
+# 	# if (attr == 0):
+# 	# 	print ("yeah")
+# 	# else:
+# 	# 	print (attr)
+# 	# 	print (attr - 1)
+# 	i = i + 1
+# 	print(attr['time'])
+
+pp = g.get_edge_data('Ying-Mo', 'Maryann-Berry')
+print (pp)
+
+# new_list = []
+# for i in old_list:
+
+ff = [e for e in g.edges_iter()]
+print ("list comprehension is %s" % ff)
 
 	# t1 = "2016-04-07T03:34:58Z"
 	# t2 = "2016-04-07T03:31:18Z"
